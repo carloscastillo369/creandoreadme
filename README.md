@@ -1,6 +1,6 @@
 <p align="center">
   <p align="center">
-      <img src="/public/images/logo/logo.png" alt="" height="72">
+      <img src="/images/logo/logo.png" alt="" height="72">
   </p>
   <p align="center">
     E-Commerce BookStore
@@ -41,7 +41,7 @@ npm start
 
 ## Funcionamiento ⚙️
 
-<img src="/public/images/readmeImages/homePage.jpg" alt="">
+<img src="/images/readmeImages/homePage.jpg" alt="">
 
 _Al ejecutar el app, el usuario recibe la página del home, el cual está formado por un navbar o menu, un carousel y una sección de categorias de productos._
 
