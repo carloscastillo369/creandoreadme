@@ -41,11 +41,13 @@ npm start
 
 ## Funcionamiento ⚙️
 
-<img src="/images/readmeImages/homePage.JPG" alt="" height="372">
+<p align="center">
+    <img src="/images/readmeImages/homePage.JPG" alt="" height="372">
+</p>
 
 _Al ejecutar el app, el usuario recibe la página del home, el cual está formado por un navbar o menu, un carousel y una sección de categorias de productos._
 
-_Desde el navbar el usuario tiene las opciones de ir al **home**, la **colección de productos** (cuadernos, folder, pegamentos o todos los productos), al **cart** (deshabilitado si el usuario no ha agregado ningún producto al cart), al **contacto** (ruta que no existe y por lo cual al ingresar lo llevará a la **página Error-404**), un botón para **iniciar sesión** y otro para **registrarse**_
+_Desde el navbar el usuario tiene las opciones de ir al **home** <img src="/images/readmeImages/home.JPG" alt="" height="20">, la **colección de productos** (cuadernos, folder, pegamentos o todos los productos), al **cart** (deshabilitado si el usuario no ha agregado ningún producto al cart), al **contacto** (ruta que no existe y por lo cual al ingresar lo llevará a la **página Error-404**), un botón para **iniciar sesión** y otro para **registrarse**_
 
 _El corousel tiene un único link que lleva al usuario a ver todos los productos_
 
