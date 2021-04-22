@@ -43,10 +43,10 @@ npm start
 
 <p align="center">
   <p align="center">
-    Página de inicio
+      <img src="/images/readmeImages/homePage.JPG" alt="" height="372">
   </p>
   <p align="center">
-      <img src="/images/readmeImages/homePage.JPG" alt="" height="372">
+    Página de inicio
   </p>
 </p>
 
@@ -60,23 +60,33 @@ _En la sección categorías, el usuario puede acceder a cada una de ellas simila
 
 <p align="center">
   <p align="center">
-    Página de lista de productos
+      <img src="/images/readmeImages/productsPage.JPG" alt="" height="372">
   </p>
   <p align="center">
-      <img src="/images/readmeImages/productsPage.JPG" alt="" height="372">
+    Página de lista de productos
   </p>
 </p>
 
 _Una vez el usuario ingrese a una de las categorías, observará un lista de productos._
 
 <p align="center">
-    <img src="/images/readmeImages/card-product.JPG" alt="" height="372">
+  <p align="center">
+      <img src="/images/readmeImages/card-product.JPG" alt="" height="372">
+  </p>
+  <p align="center">
+    Card de un producto
+  </p>
 </p>
 
 _Cada producto se encuentra dentro de un card. Este card muestra una imagen, una marca, un título o nombre, el precio y la cantidad en stock de cada producto, además de un contador para aumentar o disminuir la cantidad ha agregar al cart utilizando el botón Agregar_
 
 <p align="center">
-    <img src="/images/readmeImages/pagination.JPG" alt="" height="372">
+  <p align="center">
+      <img src="/images/readmeImages/pagination.JPG" alt="" height="70">
+  </p>
+  <p align="center">
+    Paginación
+  </p>
 </p>
 
 _En la parte inferior de la lista de productos hay una paginación, el cual aparecerá siempre y cuando la cantidad de productos supere a ocho productos por página (valor pre-configurado)._
@@ -105,9 +115,9 @@ _Una vez el usuario agregue al menos un producto, este valor se verá reflejado 
   </p>
 </p>
 
-_Si el usuario decide ir al cart, aquí se le mostrará una tabla con la lista de productos, cantidad por producto, precio unitario y subTotal de un producto, además de un cuadro de resumen donde se muestra el precio total, un botón para ir a pagar y otro para seguir comprando_
+_Si el usuario decide ir al cart, aquí se le mostrará una tabla con la lista de productos, precio unitario, cantidad por producto y subTotal de un producto, además de un cuadro de resumen donde se muestra el precio total, un botón para ir a pagar y otro para seguir comprando_
 
-_El usuario en este punto puede modificar las cantidades <img src="/images/readmeImages/changeQty.JPG" alt="" height="20">, eliminar un producto <img src="/images/readmeImages/delete.JPG" alt="" height="20"> o vaciar por completo el carrito <img src="/images/readmeImages/emptyCart.JPG" alt="" height="20">._
+_El usuario en este punto puede modificar las cantidades agregadas <img src="/images/readmeImages/changeQty.JPG" alt="" height="20">, eliminar un producto <img src="/images/readmeImages/delete.JPG" alt="" height="20"> o vaciar por completo el carrito <img src="/images/readmeImages/emptyCart.JPG" alt="" height="20">._
 
 <p align="center">
   <p align="center">
@@ -151,11 +161,11 @@ _Si el usuario no contara con una cuenta, podrá crear una presionando el enlace
     Iniciar y cerrar sesión
   </p>
   <p align="center">
-      <img src="/images/readmeImages/usuario.JPG" alt="" height="372">
+      <img src="/images/readmeImages/usuario.JPG" alt="" height="172">
   </p>
 </p>
 
-_Visualmente, en el navbar los botones de iniciar sesión y registrarse serán remplazados por un icono que representa la opción usuario <img src="/images/readmeImages/user.JPG" alt="" height="20">, si el usuario accediese a esta opción podrá ver su nombre de usuario (correo electrónico en el caso haya iniciado con la opción correo electronico y password o su nombre en el caso haya iniciado sesión con google o facebook), sus compras (aún en desarrollo) y la opción de cerrar sesión(si el usuario cerrara sesión, los botones iniciar sesión y registrarse volverían a aparecer)._
+_Visualmente, en el navbar los botones de iniciar sesión y registrarse serán remplazados por un icono que representa la opción usuario <img src="/images/readmeImages/user.JPG" alt="" height="20">, si el usuario accediese a esta opción se desplegará un menú con las opciones de: nombre de usuario (correo electrónico en el caso haya iniciado sesión con la opción correo electronico y password o su nombre en el caso haya iniciado sesión con google o facebook), Mis compras (aún en desarrollo) y la opción de Cerrar Sesión(si el usuario cerrara sesión, los botones iniciar sesión y registrarse volverían a aparecer)._
 
 <p align="center">
   <p align="center">
@@ -166,7 +176,7 @@ _Visualmente, en el navbar los botones de iniciar sesión y registrarse serán r
   </p>
 </p>
 
-_En este ultimo tramo, se le solicitará al usuario información adicional para validar su compra; **su nombre, su apellido, y su telefono o celular**. Aquí el usario podrá ver un resumen de su compra, si en caso hubiese cometido un error, pudrá regresar al cart y modificar su compra. Completado estos últimos tres datos, el usuario podrá generar su orden de compra presionando el botón **Pagar** <img src="/images/readmeImages/confirm.JPG" alt="" height="20">._
+_En este ultimo tramo, se le solicitará al usuario información adicional para validar su compra; **su nombre, su apellido, y su telefono o celular**. Aquí el usario podrá ver un resumen de su compra, si en caso hubiese cometido un error, podrá regresar al cart y modificar su compra. Completado estos últimos tres datos, el usuario podrá generar su orden de compra presionando el botón **Pagar** <img src="/images/readmeImages/confirm.JPG" alt="" height="20">._
 
 <p align="center">
   <p align="center">
@@ -177,7 +187,7 @@ _En este ultimo tramo, se le solicitará al usuario información adicional para 
   </p>
 </p>
 
-_Por último, se le mostrará al usuario el código o id de su orden de compra y una tabla con los productos, precio unitario, cantidad, subtotal y precio total de su compra. Además de la opción de un botón **Imprimir** <img src="/images/readmeImages/print.JPG" alt="" height="20"> para guardar en su ordenador un pdf de su orden de compra. Asimismo, terminada la compra la opción al cart en el navbar quedará deshabilitada, puesto que ahora está vacio nuevamente._
+_Por último, se le mostrará al usuario el código o id de su orden de compra y una tabla con los productos, precio unitario, cantidad, subtotal y precio total de su compra. Además de la opción de un botón **Imprimir** <img src="/images/readmeImages/print.JPG" alt="" height="20"> para guardar en su ordenador un pdf de su orden de compra. Asimismo, terminada la compra, la opción al cart <img src="/images/readmeImages/cart.JPG" alt="" height="20"> en el navbar quedará deshabilitada, puesto que ahora está vacio nuevamente._
 
 ## Construido con 🛠️
 
