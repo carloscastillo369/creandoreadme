@@ -54,6 +54,15 @@ _Al ejecutar el app, el usuario recibe la página del home, el cual está formad
 
 _Desde el navbar el usuario tiene las opciones de ir al **home** <img src="/images/readmeImages/home.JPG" alt="" height="20">, la **colección de productos** <img src="/images/readmeImages/collection.JPG" alt="" height="20">, al **cart** <img src="/images/readmeImages/cart.JPG" alt="" height="20"> (deshabilitado si el usuario no ha agregado ningún producto al cart), al **contacto** <img src="/images/readmeImages/contacto.JPG" alt="" height="20"> (ruta que no existe y por lo cual al ingresar lo llevará a la **página Error-404**), un botón para **iniciar sesión** y otro para **registrarse** <img src="/images/readmeImages/login-register.JPG" alt="" height="20">._
 
+<p align="center">
+  <p align="center">
+      <img src="/images/readmeImages/pageNotFound.JPG" alt="" height="372">
+  </p>
+  <p align="center">
+    Página no encontrada
+  </p>
+</p>
+
 _El corousel tiene un único link que lleva al usuario a ver todos los productos_
 
 _En la sección categorías, el usuario puede acceder a cada una de ellas similar a la opción de colección de productos <img src="/images/readmeImages/collection.JPG" alt="" height="20"> del navbar_
@@ -95,10 +104,10 @@ _El usuario puede ver más detalles de un producto presionando sobre su imagen o
 
 <p align="center">
   <p align="center">
-    Página de detalle del producto
+      <img src="/images/readmeImages/detailProductPage.JPG" alt="" height="372">
   </p>
   <p align="center">
-      <img src="/images/readmeImages/detailProductPage.JPG" alt="" height="372">
+    Página de detalle del producto
   </p>
 </p>
 
@@ -108,10 +117,10 @@ _Una vez el usuario agregue al menos un producto, este valor se verá reflejado 
 
 <p align="center">
   <p align="center">
-    Página Cart
+      <img src="/images/readmeImages/cartPage.JPG" alt="" height="372">
   </p>
   <p align="center">
-      <img src="/images/readmeImages/cartPage.JPG" alt="" height="372">
+    Página Cart
   </p>
 </p>
 
@@ -121,10 +130,10 @@ _El usuario en este punto puede modificar las cantidades agregadas <img src="/im
 
 <p align="center">
   <p align="center">
-    Página Cart vacío
+      <img src="/images/readmeImages/emptyCartPage.JPG" alt="" height="372">
   </p>
   <p align="center">
-      <img src="/images/readmeImages/emptyCartPage.JPG" alt="" height="372">
+    Página Cart vacío
   </p>
 </p>
 
@@ -136,10 +145,10 @@ _Una vez el usuario este conforme con su lista de compras entonces estará listo
 
 <p align="center">
   <p align="center">
-    Página Inicio de sesión
+      <img src="/images/readmeImages/loginPage.JPG" alt="" height="372">
   </p>
   <p align="center">
-      <img src="/images/readmeImages/loginPage.JPG" alt="" height="372">
+    Página Inicio de sesión
   </p>
 </p>
 
@@ -147,10 +156,10 @@ _Para el inicio de sesión, el usuario cuenta con tres opciones **iniciar sesió
 
 <p align="center">
   <p align="center">
-    Página Registro
+      <img src="/images/readmeImages/logUpPage.JPG" alt="" height="372">
   </p>
   <p align="center">
-      <img src="/images/readmeImages/logUpPage.JPG" alt="" height="372">
+    Página Registro
   </p>
 </p>
 
@@ -158,10 +167,10 @@ _Si el usuario no contara con una cuenta, podrá crear una presionando el enlace
 
 <p align="center">
   <p align="center">
-    Iniciar y cerrar sesión
+      <img src="/images/readmeImages/usuario.JPG" alt="" height="172">
   </p>
   <p align="center">
-      <img src="/images/readmeImages/usuario.JPG" alt="" height="172">
+    Iniciar y cerrar sesión
   </p>
 </p>
 
@@ -169,10 +178,10 @@ _Visualmente, en el navbar los botones de iniciar sesión y registrarse serán r
 
 <p align="center">
   <p align="center">
-    Página Checkout
+      <img src="/images/readmeImages/paymentPage.JPG" alt="" height="372">
   </p>
   <p align="center">
-      <img src="/images/readmeImages/paymentPage.JPG" alt="" height="372">
+    Página Checkout
   </p>
 </p>
 
@@ -180,10 +189,10 @@ _En este ultimo tramo, se le solicitará al usuario información adicional para 
 
 <p align="center">
   <p align="center">
-    Página Orden de compra
+      <img src="/images/readmeImages/ordenPage.JPG" alt="" height="372">
   </p>
   <p align="center">
-      <img src="/images/readmeImages/ordenPage.JPG" alt="" height="372">
+    Página Orden de compra
   </p>
 </p>
 
