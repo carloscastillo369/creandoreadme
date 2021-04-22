@@ -41,7 +41,7 @@ npm start
 
 ## Funcionamiento ⚙️
 
-<img src="/images/readmeImages/homePage.jpg" alt="">
+<img src="/images/readmeImages/homePage.JPG" alt="" height="172">
 
 _Al ejecutar el app, el usuario recibe la página del home, el cual está formado por un navbar o menu, un carousel y una sección de categorias de productos._
 
