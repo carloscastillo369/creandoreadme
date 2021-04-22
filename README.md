@@ -56,12 +56,14 @@ _Desde el navbar el usuario tiene las opciones de ir al **home** <img src="/imag
 
 <p align="center">
   <p align="center">
-      <img src="/images/readmeImages/pageNotFound.JPG" alt="" height="372">
+      <img src="/images/readmeImages/pageNotFound.JPG" alt="" height="172">
   </p>
   <p align="center">
     Página no encontrada
   </p>
 </p>
+
+_La página PageNotFound se mostrará cada vez que el usuario intente ingresar a una ruta no definida en el proyecto como por ejemplo: /miscompras, /registrarme, /buscarUnProducto, etc._
 
 _El corousel tiene un único link que lleva al usuario a ver todos los productos_
 
