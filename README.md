@@ -11,6 +11,10 @@
 
 _Es un e-commerce de una librería o bookstore, para realizar compras online de productos para la educación._
 
+## Demo
+
+[![alt text](https://justdjango.s3-us-west-2.amazonaws.com/media/gifs/djecommerce.gif "Logo")]
+
 ## Comenzando 🚀
 
 _Para ver la navegabilidad de este proyecto puedes ingresar al siguiente enlace <https://elegant-volhard-51d912.netlify.app>._
