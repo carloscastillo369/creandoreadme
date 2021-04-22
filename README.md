@@ -47,7 +47,7 @@ npm start
 
 _Al ejecutar el app, el usuario recibe la página del home, el cual está formado por un navbar o menu, un carousel y una sección de categorias de productos._
 
-_Desde el navbar el usuario tiene las opciones de ir al **home** <img src="/images/readmeImages/home.JPG" alt="" height="20">, la **colección de productos** <img src="/images/readmeImages/collection.JPG" alt="" height="20">, al **cart** <img src="/images/readmeImages/cart.JPG" alt="" height="20"> (deshabilitado si el usuario no ha agregado ningún producto al cart), al **contacto** <img src="/images/readmeImages/contact.JPG" alt="" height="20"> (ruta que no existe y por lo cual al ingresar lo llevará a la **página Error-404**), un botón para **iniciar sesión** y otro para **registrarse** <img src="/images/readmeImages/login-register.JPG" alt="" height="20">_
+_Desde el navbar el usuario tiene las opciones de ir al **home** <img src="/images/readmeImages/home.JPG" alt="" height="20">, la **colección de productos** <img src="/images/readmeImages/collection.JPG" alt="" height="20">, al **cart** <img src="/images/readmeImages/cart.JPG" alt="" height="20"> (deshabilitado si el usuario no ha agregado ningún producto al cart), al **contacto** <img src="/images/readmeImages/contact.JPG" alt="" height="20"> (ruta que no existe y por lo cual al ingresar lo llevará a la **página Error-404**), un botón para **iniciar sesión** y otro para **registrarse** <img src="/images/readmeImages/login-register.JPG" alt="" height="30">_
 
 _El corousel tiene un único link que lleva al usuario a ver todos los productos_
 
