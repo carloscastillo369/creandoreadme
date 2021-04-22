@@ -13,7 +13,7 @@ _Es un e-commerce de una librería o bookstore, para realizar compras online de 
 
 ## Demo
 
-[![alt text](https://gifyu.com/image/t4i2 "Logo")]
+[![alt text](https://gifyu.com/image/t4i2)]
 
 ## Comenzando 🚀
 
